@@ -1,0 +1,19 @@
+body{
+	background-color: #b8b8b8;
+	font-family: helvetica;
+	color: #555;
+	font-size: 1em;
+}
+
+h1{
+	border-left: 12px sandybrown solid;
+	padding-left: 12px;
+}
+
+#caja{
+	width: 200px; 
+	height:200px;
+	background-color: #666;
+	margin-top: 25px;
+
+}
